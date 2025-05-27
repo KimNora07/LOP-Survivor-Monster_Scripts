@@ -1,1 +1,1 @@
-# LOP-Survivor-Monster
+# LOP-Survivor-Monster-Scripts
